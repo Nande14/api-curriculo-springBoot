@@ -1,6 +1,6 @@
 package com.example.springboot;
 
-import com.example.springboot.models.ProductModel;
+import com.example.springboot.models.CurriculumModel;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
